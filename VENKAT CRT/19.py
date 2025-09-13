@@ -3,4 +3,4 @@ num=[]
 for i in range(n):
     val=input(f"enter the values at index {i}:")
     num.append(val)
-print(num)
+print(num) 
